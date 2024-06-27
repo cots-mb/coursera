@@ -63,7 +63,7 @@
     "URL":"./src/to_rb_beach.jpg"
     },
     {
-    "type":"City", 
+    "type":"Country", 
     "city":"Toronto",
     "country":"CA",
     "activity":"Shopping",
@@ -72,12 +72,30 @@
     "URL":"./src/to_tw.jpg"
     },
     {
-    "type":"City", 
+    "type":"Country", 
     "city":"Toronto",
     "country":"CA",
     "activity":"shopping",
     "point":"Mall",
     "descr":"NA",
     "URL":"./src/to_sh_mall.jpg"
+    },
+    {
+    "type":"Temple", 
+    "city":"Phnom Penh",
+    "country":"CBDA",
+    "activity":"pray",
+    "point":"Temple",
+    "descr":"NA",
+    "URL":"./src/co_temple.jpg"
+    },
+    {
+    "type":"Temple", 
+    "city":"Phnom Penh",
+    "country":"CBDA",
+    "activity":"prau",
+    "point":"Temple",
+    "descr":"NA",
+    "URL":"./src/co_temple2.jpg"
     }
 ]

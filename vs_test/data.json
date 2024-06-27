@@ -1,0 +1,83 @@
+[
+    {
+    "type":"City", 
+    "city":"New York",
+    "country":"US",
+    "activity":"shopping",
+    "point":"5th Ave.",
+    "descr":"Shoppers delight....",
+    "URL":"./src/ny_fave.jpeg"
+    },
+    {
+    "type":"City", 
+    "city":"New York",
+    "country":"US",
+    "activity":"shopping",
+    "point":"Time Square",
+    "descr":"The Heartbeat of NY....",
+    "URL":"./src/ny_ts.jpg"
+    },
+    {
+    "type":"City", 
+    "city":"New York",
+    "country":"US",
+    "activity":"relaxing",
+    "point":"Central Park",
+    "descr":"The green Zone of NY....",
+    "URL":"./src/ny_cp.jpg"
+    },
+    {
+    "type":"Beach", 
+    "city":"New York",
+    "country":"US",
+    "activity":"relaxing",
+    "point":"Long Beach",
+    "descr":"Feel the sand under your feets....",
+    "URL":"./src/ny_lp_beach.jpg"
+    },
+    {
+    "type":"Beach", 
+    "city":"New York",
+    "country":"US",
+    "activity":"party",
+    "point":"Rochaway Beach",
+    "descr":"Celebrat the sun....",
+    "URL":"./src/ny_raway_beach.jpg"
+    },
+    {
+    "type":"Beach", 
+    "city":"Toronto",
+    "country":"CA",
+    "activity":"party",
+    "point":"Woodbine Beach",
+    "descr":"Celebrat the sun....",
+    "URL":"./src/to_wb_beach.jpeg"
+    },
+    {
+    "type":"Beach", 
+    "city":"Toronto",
+    "country":"CA",
+    "activity":"party",
+    "point":"Rouge Beach",
+    "descr":"Feel the ocean....",
+    "URL":"./src/to_rb_beach.jpg"
+    },
+    {
+    "type":"City", 
+    "city":"Toronto",
+    "country":"CA",
+    "activity":"Shopping",
+    "point":"Down Town",
+    "descr":"NA",
+    "URL":"./src/to_tw.jpg"
+    },
+    {
+    "type":"City", 
+    "city":"Toronto",
+    "country":"CA",
+    "activity":"shopping",
+    "point":"Mall",
+    "descr":"NA",
+    "URL":"./src/to_sh_mall.jpg"
+    }
+]
